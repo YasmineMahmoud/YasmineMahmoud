@@ -1,6 +1,5 @@
-<div align='center'>
-![](Cover.jpg)
-</div>
-
-
 ## Hi there 👋
+
+
+<div align='center'>
+<h2> 💖 Thank You 💖 </h2>
