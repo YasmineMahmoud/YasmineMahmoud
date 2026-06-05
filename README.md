@@ -10,7 +10,7 @@
 
 <div align='center'>
   <h2> 💬 Get in touch 💬 </h2>
-  <a href="https://x.com/YasminMahmoudX">
+  <a href="https://x.com/YasminRadwanX">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://www.linkedin.com/in/yasmin-mahmoud-sra/">
